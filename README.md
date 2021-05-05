@@ -6,4 +6,4 @@ Malaria is a life-threatening disease caused by parasites that are transmitted t
 ![ML](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Anopheles_stephensi.jpeg/1200px-Anopheles_stephensi.jpeg)
 
 # webapp
-![ML](img/1.png)
+![ML](img/1.PNG)
